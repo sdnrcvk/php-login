@@ -1,0 +1,35 @@
+body{
+    background: #b64545;
+}
+
+form {
+margin-left:30%;
+margin-right:30%;
+margin-top:5%;
+margin-bottom: 5%;
+font-size: 18px;
+}
+
+input {
+margin: 3px;
+display: block;
+    
+}
+label{
+    color: #ffffff;
+}
+fieldset{
+    color: #51aadd;
+}
+legend{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 23px;
+    font-weight: bolder;
+}
+.gonder{
+    float: right;
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    font-weight: bold;
+}
